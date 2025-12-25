@@ -1,0 +1,9 @@
+streamlit
+streamlit-lottie
+langchain-openai
+langchain-core
+pydantic
+python-dotenv
+fpdf
+pandas
+requests
