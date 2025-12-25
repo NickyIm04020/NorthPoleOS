@@ -36,7 +36,7 @@
     ```
 
 ## 📸 Screenshots
-*(Upload your "Command Center" screenshot here)*
+![Command Center Dashboard](dashboard.png)
 
 ---
-**Happy Holidays! 🎄**
+**Happy Christmas! 🎄**
