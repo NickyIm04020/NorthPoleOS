@@ -7,7 +7,7 @@ import pandas as pd
 from backend import NorthPoleEngine, generate_pdf
 
 # --- 1. CONFIGURATION ---
-st.set_page_config(page_title="NorthPoleOS Command", layout="wide", page_icon="🎅")
+st.set_page_config(page_title="NorthPoleOS", layout="wide", page_icon="🎅")
 
 def load_lottieurl(url):
     try:
@@ -82,7 +82,7 @@ col_h1, col_h2, col_h3 = st.columns([1, 6, 2])
 with col_h1:
     if lottie_santa: st_lottie(lottie_santa, height=80, key="head")
 with col_h2:
-    st.title("NORTHPOLE_OS // COMMAND")
+    st.title("NORTHPOLE_OS // ")
 with col_h3:
     if lottie_radar: st_lottie(lottie_radar, height=80, key="radar")
 
